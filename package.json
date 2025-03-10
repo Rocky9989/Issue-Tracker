@@ -1,0 +1,29 @@
+{
+  "name": "issue-tracker",
+  "version": "1.0.0",
+  "description": "Coding ninjas back-end test \r # hosted link\r (https://issue-tracker-cagm.onrender.com/)\r # Creating and Managing  Issues\r ![Screenshot 2023-10-14 034035](https://github.com/iAdtya/Issue-Tracker/assets/93979441/9c668fc7-0263-4740-a025-9be629fbcab7)\r # Add Projects\r ![Screenshot 2023-10-09 221522](https://github.com/iAdtya/Issue-Tracker/assets/93979441/ee99c244-3973-4401-89a3-6cd94e365299)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iAdtya/Issue-Tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iAdtya/Issue-Tracker/issues"
+  },
+  "homepage": "https://github.com/iAdtya/Issue-Tracker#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "mongodb": "^6.14.2",
+    "mongoose": "^8.12.1",
+    "nodemon": "^3.1.9",
+    "path": "^0.12.7"
+  }
+}
