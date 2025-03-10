@@ -5,7 +5,9 @@
   "description": "A simple issue tracker app using Express, MongoDB, and EJS",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
